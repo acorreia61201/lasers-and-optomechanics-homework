@@ -1,0 +1,9 @@
+120/100
+
+You're the only one who has done the Extra Credit problems so far.
+
+I would say that the rise in temp is not unrealistic when the pulse is only a few nanoseconds long.  
+The material would definitely vaporize though, before the entire 1 Joule pulse was absorbed.
+
+Your solutions to the EC problems are very nice.  
+Would you mind if I shared them as a part of my own solutions?
